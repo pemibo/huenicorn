@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Huenicorn
+GenericName=Contorl Philips Hue Lamps
+Comment=Proves that we can use Vala and Gtk
+Categories=GTK;Utility;
+Exec=com.github.yourusername.yourrepositoryname
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=huenicorn
+Keywords=Hue;Lights;Lamps;
