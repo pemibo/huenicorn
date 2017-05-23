@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pemibo/Git/huenicorn/build/src/Huenicorn.c
+glib.h
+-
+glib-object.h
+-
+stdlib.h
+-
+string.h
+-
+gtk/gtk.h
+-
+

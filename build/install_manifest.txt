@@ -1,0 +1,3 @@
+/usr/bin/com.github.pemibo.huenicorn
+/usr/share/applications/com.github.pemibo.huenicorn.desktop
+/usr/share/metainfo/com.github.pemibo.huenicorn.appdata.xml
