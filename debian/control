@@ -1,0 +1,13 @@
+Source: huenicorn
+Section: x11
+Priority: extra
+Maintainer: Peter Bogner <pemibo1986@gmail.com>
+Build-Depends: cmake (>= 2.8),
+               debhelper (>= 8.0.0),
+               valac-0.26 | valac (>= 0.26)
+Standards-Version: 3.9.3
+
+Package: huenicorn
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Control your Hue Lamps
