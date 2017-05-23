@@ -1,0 +1,16 @@
+/home/pemibo/Git/huenicorn/po/CMakeFiles/install.dir
+/home/pemibo/Git/huenicorn/po/CMakeFiles/list_install_components.dir
+/home/pemibo/Git/huenicorn/po/CMakeFiles/rebuild_cache.dir
+/home/pemibo/Git/huenicorn/po/CMakeFiles/install/strip.dir
+/home/pemibo/Git/huenicorn/po/CMakeFiles/install/local.dir
+/home/pemibo/Git/huenicorn/po/CMakeFiles/com.github.pemibo.huenicorn.dir
+/home/pemibo/Git/huenicorn/po/CMakeFiles/edit_cache.dir
+/home/pemibo/Git/huenicorn/po/po/CMakeFiles/rebuild_cache.dir
+/home/pemibo/Git/huenicorn/po/po/CMakeFiles/edit_cache.dir
+/home/pemibo/Git/huenicorn/po/po/CMakeFiles/po.dir
+/home/pemibo/Git/huenicorn/po/po/CMakeFiles/install.dir
+/home/pemibo/Git/huenicorn/po/po/CMakeFiles/list_install_components.dir
+/home/pemibo/Git/huenicorn/po/po/CMakeFiles/i18n.dir
+/home/pemibo/Git/huenicorn/po/po/CMakeFiles/pot.dir
+/home/pemibo/Git/huenicorn/po/po/CMakeFiles/install/local.dir
+/home/pemibo/Git/huenicorn/po/po/CMakeFiles/install/strip.dir

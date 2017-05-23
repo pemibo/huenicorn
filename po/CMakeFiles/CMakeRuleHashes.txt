@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+6415c173ee02b95b0519848fcfa173d5 com.github.pemibo.huenicorn_valac.stamp
+4298e17850227a8734ecee6f4e653b09 src/Huenicorn.c
